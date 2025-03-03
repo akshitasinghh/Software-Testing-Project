@@ -7,3 +7,10 @@ This repository contains the manual testing documentation and test cases for an 
 2.<b>Test Scenarios</b>: High-level situations to be tested.<br>
 3.<b>Test Cases</b>: Detailed steps, expected results, and actual results.<br>
 4.<b>Bug Reports</b>: Documentation of identified issues.<br>
+
+<h2>Tools Used</h2>
+
+1.<b>Test Management Tool</b>:Jira<br>
+2.<b>Bug Tracking Tool</b> <br>
+3.<b>Browser</b>: Chrome, Edge.<br>
+4.<b>Device Compatibility</b>: Desktop,Tablet.<br>
