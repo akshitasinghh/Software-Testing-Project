@@ -3,7 +3,7 @@ This repository contains the manual testing documentation and test cases for an 
 
 <h2>Test Artifacts</h2>
 
-1.<b>Test Plan</b>: Outlines the overall testing strategy and approach.\n
-2.<b>Test Scenarios</b>: High-level situations to be tested.\n
-3.<b>Test Cases</b>: Detailed steps, expected results, and actual results.\n
-4.<b>Bug Reports</b>: Documentation of identified issues.\n
+1.<b>Test Plan</b>: Outlines the overall testing strategy and approach.<br>
+2.<b>Test Scenarios</b>: High-level situations to be tested.<br>
+3.<b>Test Cases</b>: Detailed steps, expected results, and actual results.<br>
+4.<b>Bug Reports</b>: Documentation of identified issues.<br>
